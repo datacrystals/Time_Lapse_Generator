@@ -240,3 +240,4 @@ def main(outputfname = 'output.mp4', resolution = (1920,1080), framerate = 30): 
 if __name__ == '__main__': # if its running as a standalone
 
     main() # start the main function
+
